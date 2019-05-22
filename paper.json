@@ -1,0 +1,436 @@
+{
+    "waitseconds": "0",
+    "papertemplatename": "",
+    "guid": "343eef566473443088b1bf98b67682dc",
+    "image": "",
+    "IsCustomPaper": "True",
+    "speakingscore": "20",
+    "times": "0",
+    "content": "",
+    "sections": "",
+    "listeningscore": "0",
+    "backgroudaudioseconds": "0",
+    "title": "",
+    "totalscore": "20",
+    "totalexamtime": "749",
+    "name": "测试pad-Sprint4",
+    "backgroundaudio": "",
+    "areas": [
+        {
+            "prompt": "请以适当音量、语调、停顿、语音朗读以下课文，你将有时间熟悉屏幕上的课文，并作答题准备。在听到“嘀”的提示音后，请将屏幕上的课文朗读一遍。",
+            "title": "一、朗读短文",
+            "guid": "ea38d0b72c7f47299bfb9387833d0b5b",
+            "backgroundaudioseconds": "21",
+            "times": "1",
+            "index": "1",
+            "promptaudioseconds": "0",
+            "backgroundaudio": "area_3_audio.mp3",
+            "promptaudio": "area_3_audio.mp3",
+            "type": "3",
+            "presubmitmaxseconds": "0",
+            "questions": [
+                {
+                    "tips": "",
+                    "score": "10",
+                    "waitseconds": "0",
+                    "prompt": "",
+                    "newscreen": "False",
+                    "contents": [
+                        {
+                            "tips": "",
+                            "score": [
+                                {
+                                    "content": "10"
+                                },
+                                {
+                                    "content": "10"
+                                }
+                            ],
+                            "resourcetype": "1",
+                            "audio": "aaa2c71c844746e980bf062b947e5252_Audio.mp3",
+                            "guid": "aaa2c71c844746e980bf062b947e5252",
+                            "videoseconds": "54",
+                            "image": "",
+                            "video": "",
+                            "options": "",
+                            "times": "0",
+                            "answerseconds": "60",
+                            "refrencetexts": {
+                                "refrencetext": {
+                                    "content": "My name is Tom, and I'm fifteen. I've been at River School since I was eleven. If I pass my exams next year, I'll stay here until I'm eighteen. River School is a secondary school, about twenty minutes away from my home by bike. We go to school every weekday from eight forty five am to three fifteen pm. We have a large sports ground for football and tennis, where we can play both during and after school hours. After school activities, such as sports clubs and language societies, are popular too. During the school year there are usually visits to museums and to camps for activities, such as climbing and walking in the country",
+                                    "guid": "a0122b7e01264b8483c28d5894202d02",
+                                    "index": "0"
+                                }
+                            },
+                            "layout": "1",
+                            "audioseconds": "54",
+                            "choosetype": "1",
+                            "tipsaudioSeconds": "0",
+                            "tipsaudio": "",
+                            "answers": "",
+                            "text": "My name is Tom, and I'm fifteen. I've been at River School since I was eleven. If I pass my exams next year, I'll stay here until I'm eighteen.\r\nRiver School is a secondary school, about twenty minutes away from my home by bike. We go to school every weekday from 8:45 a.m to 3:15 p.m. We have a large sports ground for football and tennis, where we can play both during and after school hours. After-school activities, such as sports clubs and language societies, are popular too. During the school year there are usually visits to museums and to camps for activities, such as climbing and walking in the country.",
+                            "index": "1",
+                            "audiotext": "",
+                            "prepareseconds": "60",
+                            "presubmitmaxseconds": "0"
+                        }
+                    ],
+                    "audio": "",
+                    "guid": "6cf08255c0804be38888a429c7fe5836",
+                    "videoseconds": "0",
+                    "image": "",
+                    "video": "",
+                    "tipsaudioseconds": "0",
+                    "times": "0",
+                    "promptaudioseconds": "0",
+                    "answerseconds": "60",
+                    "audioseconds": "0",
+                    "title": "",
+                    "tipsaudio": "",
+                    "text": "",
+                    "index": "1",
+                    "audiotext": "",
+                    "prepareseconds": "60",
+                    "promptaudio": "",
+                    "presubmitmaxseconds": "0"
+                }
+            ]
+        },
+        {
+            "prompt": "听后记录并转述信息。",
+            "title": "二、听后记录并转述信息",
+            "guid": "6289aaf57bd843a7b4399c199fa0c887",
+            "backgroundaudioseconds": "3",
+            "times": "1",
+            "index": "2",
+            "promptaudioseconds": "0",
+            "backgroundaudio": "area_25_audio.mp3",
+            "promptaudio": "area_25_audio.mp3",
+            "type": "25",
+            "presubmitmaxseconds": "0",
+            "questions": [
+                {
+                    "tips": "第二节 请再听一遍短文，在50秒钟内完成转述。",
+                    "score": "10",
+                    "waitseconds": "0",
+                    "prompt": "第一节 每小题仅填写一个词。录音播放前，你将有20秒钟的时间阅读试题，听完后你将有60秒钟的作答时间。这段短文你将听两遍。",
+                    "newscreen": "False",
+                    "contents": [
+                        {
+                            "tips": "",
+                            "score": [
+                                {
+                                    "content": "1"
+                                },
+                                {
+                                    "content": "1"
+                                }
+                            ],
+                            "resourcetype": "0",
+                            "audio": "",
+                            "guid": "91c663bf44b04d3d954f67cf4d1a1641",
+                            "videoseconds": "0",
+                            "image": "",
+                            "video": "",
+                            "options": "",
+                            "times": "2",
+                            "answerseconds": "60",
+                            "refrencetexts": "",
+                            "layout": "1",
+                            "audioseconds": "0",
+                            "choosetype": "3",
+                            "tipsaudioSeconds": "0",
+                            "tipsaudio": "",
+                            "answers": {
+                                "answer": {
+                                    "index": "1",
+                                    "content": "daughter ",
+                                    "audio": "",
+                                    "guid": "ed23442ee16a456a841b4a32ce4a48af",
+                                    "audioseconds": "0"
+                                }
+                            },
+                            "text": "",
+                            "index": "1",
+                            "audiotext": "",
+                            "prepareseconds": "20",
+                            "presubmitmaxseconds": "0"
+                        },
+                        {
+                            "tips": "",
+                            "score": [
+                                {
+                                    "content": "1"
+                                },
+                                {
+                                    "content": "1"
+                                }
+                            ],
+                            "resourcetype": "0",
+                            "audio": "",
+                            "guid": "039c0578658c405087d51e6b97609d0d",
+                            "videoseconds": "0",
+                            "image": "",
+                            "video": "",
+                            "options": "",
+                            "times": "2",
+                            "answerseconds": "60",
+                            "refrencetexts": "",
+                            "layout": "1",
+                            "audioseconds": "0",
+                            "choosetype": "3",
+                            "tipsaudioSeconds": "0",
+                            "tipsaudio": "",
+                            "answers": {
+                                "answer": [
+                                    {
+                                        "index": "1",
+                                        "content": "son",
+                                        "audio": "",
+                                        "guid": "6cda019372244bdf8d2c2d4d324fe246",
+                                        "audioseconds": "0"
+                                    },
+                                    {
+                                        "index": "2",
+                                        "content": "boy ",
+                                        "audio": "",
+                                        "guid": "08c8243f666742a683873ba6b07e5996",
+                                        "audioseconds": "0"
+                                    }
+                                ]
+                            },
+                            "text": "",
+                            "index": "2",
+                            "audiotext": "",
+                            "prepareseconds": "20",
+                            "presubmitmaxseconds": "0"
+                        },
+                        {
+                            "tips": "",
+                            "score": [
+                                {
+                                    "content": "1"
+                                },
+                                {
+                                    "content": "1"
+                                }
+                            ],
+                            "resourcetype": "0",
+                            "audio": "",
+                            "guid": "fc836001ab7f40388a1d3e3e639ea6ec",
+                            "videoseconds": "0",
+                            "image": "",
+                            "video": "",
+                            "options": "",
+                            "times": "2",
+                            "answerseconds": "60",
+                            "refrencetexts": "",
+                            "layout": "1",
+                            "audioseconds": "0",
+                            "choosetype": "3",
+                            "tipsaudioSeconds": "0",
+                            "tipsaudio": "",
+                            "answers": {
+                                "answer": [
+                                    {
+                                        "index": "1",
+                                        "content": "16",
+                                        "audio": "",
+                                        "guid": "b21c8625425446a4aee3bba0977be7af",
+                                        "audioseconds": "0"
+                                    },
+                                    {
+                                        "index": "2",
+                                        "content": "sixteen ",
+                                        "audio": "",
+                                        "guid": "69c9adb3e7a6467faceec96761b346b9",
+                                        "audioseconds": "0"
+                                    }
+                                ]
+                            },
+                            "text": "",
+                            "index": "3",
+                            "audiotext": "",
+                            "prepareseconds": "20",
+                            "presubmitmaxseconds": "0"
+                        },
+                        {
+                            "tips": "",
+                            "score": [
+                                {
+                                    "content": "1"
+                                },
+                                {
+                                    "content": "1"
+                                }
+                            ],
+                            "resourcetype": "0",
+                            "audio": "",
+                            "guid": "6cc4a530efe1492b93d9334a11684283",
+                            "videoseconds": "0",
+                            "image": "",
+                            "video": "",
+                            "options": "",
+                            "times": "2",
+                            "answerseconds": "60",
+                            "refrencetexts": "",
+                            "layout": "1",
+                            "audioseconds": "0",
+                            "choosetype": "3",
+                            "tipsaudioSeconds": "0",
+                            "tipsaudio": "",
+                            "answers": {
+                                "answer": {
+                                    "index": "1",
+                                    "content": "junior",
+                                    "audio": "",
+                                    "guid": "b621bdd44b904465917e649de5edad33",
+                                    "audioseconds": "0"
+                                }
+                            },
+                            "text": "",
+                            "index": "4",
+                            "audiotext": "",
+                            "prepareseconds": "20",
+                            "presubmitmaxseconds": "0"
+                        },
+                        {
+                            "tips": "",
+                            "score": [
+                                {
+                                    "content": "1"
+                                },
+                                {
+                                    "content": "1"
+                                }
+                            ],
+                            "resourcetype": "0",
+                            "audio": "",
+                            "guid": "86d9314fdd5746d19218a56212c1411b",
+                            "videoseconds": "0",
+                            "image": "",
+                            "video": "",
+                            "options": "",
+                            "times": "2",
+                            "answerseconds": "60",
+                            "refrencetexts": "",
+                            "layout": "1",
+                            "audioseconds": "0",
+                            "choosetype": "3",
+                            "tipsaudioSeconds": "0",
+                            "tipsaudio": "",
+                            "answers": {
+                                "answer": {
+                                    "index": "1",
+                                    "content": "sell ",
+                                    "audio": "",
+                                    "guid": "1c8f2e2849db40ed86be79be10778678",
+                                    "audioseconds": "0"
+                                }
+                            },
+                            "text": "",
+                            "index": "5",
+                            "audiotext": "",
+                            "prepareseconds": "20",
+                            "presubmitmaxseconds": "0"
+                        },
+                        {
+                            "tips": "Her children are growing up fast...",
+                            "score": [
+                                {
+                                    "content": "5"
+                                },
+                                {
+                                    "content": "5"
+                                }
+                            ],
+                            "resourcetype": "0",
+                            "audio": "",
+                            "guid": "a7d43acbc15e460ea0ed45ec79130016",
+                            "videoseconds": "0",
+                            "image": "",
+                            "video": "",
+                            "options": "",
+                            "times": "1",
+                            "answerseconds": "50",
+                            "refrencetexts": {
+                                "refrencetext": [
+                                    {
+                                        "content": "Her children are growing up fast. Her daughter is sixteen years old and her boy is already in junior high school. As they get older, their house seems to be smaller. So they want to sell some of their things in a yard and give the money to transform a children's home. ",
+                                        "guid": "6a42b8b795ed4a7eb58bc0529e3c7c13",
+                                        "index": "1"
+                                    },
+                                    {
+                                        "content": "Her children are growing up fast. Her daughter is sixteen years old and her son is already in junior high school. As they get older, their house seems to be smaller. So they want to sell some of their things in a yard and give the money to have a children's home. ",
+                                        "guid": "e1091086b76641678bc6f62eced41b59",
+                                        "index": "2"
+                                    },
+                                    {
+                                        "content": "Her children are growing up fast. Her daughter is sixteen years old and her son is already in junior high school. As they get older, their house seems to be smaller. So they want to sell some of their things in a yard and give the money to a children's home. ",
+                                        "guid": "8d6a0622e773440bbbcc7408f050989c",
+                                        "index": "3"
+                                    }
+                                ]
+                            },
+                            "layout": "0",
+                            "audioseconds": "0",
+                            "choosetype": "0",
+                            "tipsaudioSeconds": "0",
+                            "tipsaudio": "",
+                            "answers": {
+                                "answer": [
+                                    {
+                                        "index": "1",
+                                        "content": "Her children are growing up fast. Her daughter is sixteen years old and her boy is already in junior high school. As they get older, their house seems to be smaller. So they want to sell some of their things in a yard and give the money to transform a children's home. ",
+                                        "audio": "",
+                                        "guid": "7bec19bd86714e849eed8351ea9516da",
+                                        "audioseconds": "0"
+                                    },
+                                    {
+                                        "index": "2",
+                                        "content": "Her children are growing up fast. Her daughter is sixteen years old and her son is already in junior high school. As they get older, their house seems to be smaller. So they want to sell some of their things in a yard and give the money to have a children's home. ",
+                                        "audio": "",
+                                        "guid": "0215062562c7482f9aab511ceb4f4d37",
+                                        "audioseconds": "0"
+                                    },
+                                    {
+                                        "index": "3",
+                                        "content": "Her children are growing up fast. Her daughter is sixteen years old and her son is already in junior high school. As they get older, their house seems to be smaller. So they want to sell some of their things in a yard and give the money to a children's home. ",
+                                        "audio": "",
+                                        "guid": "644237d08e974756b13dc3dca07c21a3",
+                                        "audioseconds": "0"
+                                    }
+                                ]
+                            },
+                            "text": "",
+                            "index": "6",
+                            "audiotext": "",
+                            "prepareseconds": "15",
+                            "presubmitmaxseconds": "0"
+                        }
+                    ],
+                    "audio": "040a1e5ad84b4ec79c3ae101d47acffb_Audio.mp3",
+                    "guid": "040a1e5ad84b4ec79c3ae101d47acffb",
+                    "videoseconds": "25",
+                    "image": "040a1e5ad84b4ec79c3ae101d47acffb_Image.jpg",
+                    "video": "",
+                    "tipsaudioseconds": "4",
+                    "times": "0",
+                    "promptaudioseconds": "16",
+                    "answerseconds": "0",
+                    "audioseconds": "25",
+                    "title": "",
+                    "tipsaudio": "040a1e5ad84b4ec79c3ae101d47acffb_TipsAudio.mp3",
+                    "text": "",
+                    "index": "1",
+                    "audiotext": "My children are growing up fast. My daughter is 16 and my boy is already in junior high school. As they get bigger, our house seems to get smaller. So we want to sell some of our things in a yard sale and give the money to a children's home.",
+                    "prepareseconds": "0",
+                    "promptaudio": "040a1e5ad84b4ec79c3ae101d47acffb_PromptAudio.mp3",
+                    "presubmitmaxseconds": "0"
+                }
+            ]
+        }
+    ],
+    "papertemplateid": "",
+    "type": "1"
+}
